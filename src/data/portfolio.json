@@ -1,0 +1,210 @@
+{
+  "profile": {
+    "name": "Yashvi Poojari",
+    "shortName": "Yashvi",
+    "tagline": "I build ML pipelines, ship AI-powered apps, and turn messy data into decisions that actually matter.",
+    "role": "ML & AI Engineer",
+    "specialization": "Machine Learning · AI/LLM · Data Science",
+    "location": "Navi Mumbai, India",
+    "yearsOfExperience": "0",
+    "bio": "I'm a Computer Science & Business Systems undergraduate at RAIT building end-to-end ML pipelines, AI-powered web apps, and 3D interactive experiences. I care about models that generalise, code that's readable, and products that solve real problems — not just hit a benchmark. SIH'24 National Finalist out of 1,000+ participants. AWS Cloud Foundations certified. Three IBM Data Science credentials. Currently seeking internship opportunities in Machine Learning, AI, Software Development, or Data Analytics.",
+    "avatarSvg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 120 120'><defs><linearGradient id='av' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#a855f7'/><stop offset='50%' stop-color='#ec4899'/><stop offset='100%' stop-color='#f97316'/></linearGradient></defs><circle cx='60' cy='60' r='60' fill='url(#av)'/><circle cx='60' cy='46' r='22' fill='rgba(0,0,0,0.35)'/><ellipse cx='60' cy='100' rx='32' ry='24' fill='rgba(0,0,0,0.35)'/><text x='60' y='55' font-family='sans-serif' font-size='30' font-weight='700' text-anchor='middle' fill='white' dominant-baseline='middle'>YP</text></svg>",
+    "social": {
+      "github": "https://github.com/yashvipoojari",
+      "instagram": "",
+      "linkedin": "https://linkedin.com/in/yashvipoojari",
+      "email": "poojariyashvi15@gmail.com",
+      "phone": "+91-9930329147",
+      "website": ""
+    }
+  },
+
+  "stats": [
+    { "num": "2+",     "label": "Years building" },
+    { "num": "98.57%", "label": "Model accuracy" },
+    { "num": "Top 1%", "label": "SIH'24 finalist" },
+    { "num": "4+",     "label": "Shipped projects" }
+  ],
+
+  "education": [
+    {
+      "institution": "Ramrao Adik Institute of Technology",
+      "degree": "BTech Computer Science & Business Systems — 8.81 CGPA",
+      "period": "2023 – 2027",
+      "location": "Navi Mumbai, India"
+    },
+    {
+      "institution": "New Bombay City School",
+      "degree": "HSC — 88.75%",
+      "period": "2021 – 2023",
+      "location": "Navi Mumbai, India"
+    },
+    {
+      "institution": "DAV Public School Airoli",
+      "degree": "SSC — 95.00%",
+      "period": "2009 – 2021",
+      "location": "Navi Mumbai, India"
+    }
+  ],
+
+  "skills": {
+    "categories": [
+      {
+        "name": "Languages",
+        "items": ["Python", "C++", "Java", "JavaScript", "HTML", "CSS", "SQL"]
+      },
+      {
+        "name": "ML & Data Science",
+        "items": [ "Pandas", "Matplotlib", "Seaborn", "Feature Engineering", "Classification", "Cross-validation"]
+      },
+      {
+        "name": "AI & LLM",
+        "items": ["Claude API", "Prompt Engineering", "NLP", "OCR (Tesseract)", "RAG"]
+      },
+      {
+        "name": "Frameworks & Tools",
+        "items": ["React", "Streamlit", "FastAPI", "pdfplumber", "jsPDF", "Jupyter", "Google Colab"]
+      },
+      {
+        "name": "Cloud & DevOps",
+        "items": ["AWS (Cloud Foundations)", "Google Developer Tools", "GitHub", "Git", "VS Code"]
+      },
+      {
+        "name": "Game Dev & 3D",
+        "items": ["Unity", "C#", "Blender", "3D Asset Creation", "Gameplay Scripting"]
+      }
+    ]
+  },
+
+  "experience": [
+    {
+      "company": "The Wall RAIT",
+      "role": "Event Coordinator & Contributing Writer",
+      "period": "Sep 2024 – Jun 2025",
+      "location": "Navi Mumbai, India",
+      "summary": "Led logistics for a 500-attendee college cultural event and published original writing on the chapter's official platform.",
+      "highlights": [
+        "Led the Open Mic Cultural Event 2024 end-to-end — managed public relations, logistics, and sponsorship coordination with Faber-Castell for 70+ performers and ~500 live attendees.",
+        "Published 2 original articles on The Wall RAIT's official Instagram page, contributing to the college-wide creative writing community.",
+        "Volunteered at The Open Mic 2023, supporting event operations and audience management."
+      ]
+    },
+    {
+      "company": "ISA RAIT",
+      "role": "Technical Report Writer",
+      "period": "Sep 2024 – Jun 2025",
+      "location": "Navi Mumbai, India",
+      "summary": "Designated technical writer for the International Society of Automation student chapter, documenting workshops, conferences, and organizational events.",
+      "highlights": [
+        "Authored 10+ technical reports on IoT, 3D printing, and industry-focused workshops, capturing outcomes and insights for chapter records.",
+        "Prepared formal documentation including Minutes of Meetings, permission letters, and official invitations for ISA-organized events.",
+        "Participated in ISA technical conferences covering automation, IoT, and emerging engineering technologies."
+      ]
+    }
+  ],
+
+  "services": [
+    {
+      "num": "01",
+      "icon": "Brain",
+      "title": "Machine Learning",
+      "subtitle": "Classification · Regression · Pipelines",
+      "description": "End-to-end ML pipelines from raw data to deployed model. Feature engineering, model selection, cross-validation, and performance tuning — with a focus on metrics that matter for the problem, not just accuracy.",
+      "tags": ["Scikit-learn", "Python", "Pandas", "NumPy", "Gradio", "Flask"]
+    },
+    {
+      "num": "02",
+      "icon": "Server",
+      "title": "AI-Powered Apps",
+      "subtitle": "LLM Integration · NLP · Deployment",
+      "description": "Building practical AI applications that work beyond the demo. From CV rankers to document extraction pipelines — I connect models to real interfaces and ship things people can actually use.",
+      "tags": ["Claude API", "Streamlit", "FastAPI", "NLP", "pdfplumber", "Prompt Engineering"]
+    },
+    {
+      "num": "03",
+      "icon": "Monitor",
+      "title": "Data Analysis & Viz",
+      "subtitle": "EDA · Dashboards · Insights",
+      "description": "Turning raw datasets into clear, actionable insights. Exploratory data analysis, statistical visualisations, and interactive dashboards that communicate findings without requiring a statistics degree to read.",
+      "tags": ["Pandas", "Matplotlib", "Seaborn", "Excel", "Google Colab", "Jupyter"]
+    },
+    {
+      "num": "04",
+      "icon": "Cloud",
+      "title": "Web & Frontend Dev",
+      "subtitle": "JavaScript · HTML/CSS · Deployment",
+      "description": "Client-side web applications with real utility — from mood-based travel planners to ATS scoring tools. I build things that work without backends where possible, and deploy them so they're actually accessible.",
+      "tags": ["JavaScript", "HTML", "CSS", "jsPDF", "AWS", "GitHub Pages"]
+    }
+  ],
+
+  "projects": [
+    {
+      "id": "proj-1",
+      "title": "Ocean Cleaning Game",
+      "subtitle": "SIH'24 National Finalist · Unity 3D",
+      "description": "3D Unity game advancing marine conservation awareness — built as a 6-member team in a 2-day sprint at Smart India Hackathon 2024. Delivered 5 custom Blender assets and gameplay mapped to 7+ UNESCO SDGs. Advanced to nationals out of 1,000+ teams on the same problem statement.",
+      "stack": ["Unity", "C#", "Blender", "3D Game Dev"],
+      "role": "Team Member — 6-person team",
+      "year": "2024",
+      "link": "",
+      "image": "",
+      "highlight": true
+    },
+    
+    {
+      "id": "proj-2",
+      "title": "Ka-Chow Store",
+      "subtitle": "E-commerce · Web App",
+      "description": "A fully functional e-commerce web application built from scratch. Browse products, manage a cart, and complete purchases — all in a clean, responsive interface.",
+      "stack": ["JavaScript", "HTML", "CSS"],
+      "role": "Solo Engineer",
+      "year": "2026",
+      "link": "https://github.com/yashvipoojari/ka-chowstore",
+      "image": "",
+      "highlight": true
+    }, 
+    
+    {
+      "id": "proj-3",
+      "title": "ATS CV Ranker",
+      "subtitle": "NLP · Resume Scoring",
+      "description": "CV scoring system that ranks uploaded resumes against a job description across 4 weighted categories: Technical Skills (40%), Tools (25%), Domain (20%), Soft Skills (10%). Parses PDF, DOCX, and TXT; returns ATS score and grade per candidate in real time. Tested on 10+ real CVs.",
+      "stack": ["Python", "Streamlit", "Pandas", "pdfplumber", "NLP"],
+      "role": "Solo Engineer",
+      "year": "2026",
+      "link": "https://ats-cv-ranker-nor8ku6wcvmuhrdfcoed2g.streamlit.app/",
+      "image": "",
+      "highlight": true
+    },
+    {
+      "id": "proj-4",
+      "title": "Smart Travel Planner",
+      "subtitle": "JavaScript · Client-side App",
+      "description": "Mood-based travel planning app backed by a self-constructed database of 150+ cities across 5 continents with attractions and daily cost estimates. Generates day-by-day itineraries, supports PDF/TXT export, and runs entirely client-side with zero backend.",
+      "stack": ["JavaScript", "HTML", "CSS", "jsPDF", "Data Modelling"],
+      "role": "Solo Engineer",
+      "year": "2026",
+      "link": "https://touristgram.netlify.app/",
+      "image": "",
+      "highlight": false
+    }
+  ],
+
+  "nav": [
+    { "label": "Home",      "href": "#home" },
+    { "label": "About",     "href": "#about" },
+    { "label": "Skills",    "href": "#skills" },
+    { "label": "Projects",  "href": "#projects" },
+    { "label": "Contact",   "href": "#contact" }
+  ],
+
+  "footerNav": [
+    { "label": "Home",       "href": "#home" },
+    { "label": "About",      "href": "#about" },
+    { "label": "Skills",     "href": "#skills" },
+    { "label": "Experience", "href": "#experience" },
+    { "label": "Projects",   "href": "#projects" },
+    { "label": "Contact",    "href": "#contact" }
+  ]
+}

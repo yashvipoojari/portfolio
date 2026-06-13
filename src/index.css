@@ -1,0 +1,126 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ── Fonts ────────────────────────────── */
+@layer base {
+  html {
+    font-family: 'Kanit', sans-serif;
+    scroll-behavior: smooth;
+    background-color: #0C0C0C;
+    color: #e5e7eb;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  section[id] {
+    scroll-margin-top: 80px;
+  }
+}
+
+/* ── Chrome / silver gradient headline ── */
+.hero-heading {
+  background: linear-gradient(180deg, #646973 0%, #BBCCD7 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* ── Purple-magenta-orange gradient button ── */
+.btn-gradient {
+  background: linear-gradient(90deg, #a855f7 0%, #ec4899 50%, #f97316 100%);
+  background-size: 200% 100%;
+  transition: background-position 0.4s ease, opacity 0.2s ease;
+}
+.btn-gradient:hover {
+  background-position: right center;
+  opacity: 0.92;
+}
+
+/* ── Gradient text accent ── */
+.text-gradient {
+  background: linear-gradient(90deg, #a855f7, #ec4899, #f97316);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* ── Social pill border gradient ── */
+.pill-border {
+  position: relative;
+  border-radius: 9999px;
+  background: #111111;
+}
+.pill-border::before {
+  content: '';
+  position: absolute;
+  inset: -1px;
+  border-radius: 9999px;
+  background: linear-gradient(90deg, #a855f740, #ec489940, #f9731640);
+  z-index: -1;
+}
+
+
+/* ── Reduced-motion fallback ── */
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  .marquee-track {
+    animation: none;
+    flex-wrap: wrap;
+    width: 100%;
+    gap: 1rem;
+  }
+  .marquee-wrapper {
+    overflow-x: auto;
+    overflow-y: hidden;
+    scrollbar-width: thin;
+    scroll-snap-type: x mandatory;
+  }
+  .marquee-card {
+    scroll-snap-align: start;
+    flex-shrink: 0;
+  }
+}
+
+/* ── Card hover glow ── */
+.card-glow {
+  transition: box-shadow 0.3s ease, border-color 0.3s ease;
+}
+.card-glow:hover {
+  box-shadow: 0 0 0 1px #a855f730, 0 8px 32px #a855f715;
+  border-color: #a855f740 !important;
+}
+
+/* ── Number accent ── */
+.num-accent {
+  font-variant-numeric: tabular-nums;
+  letter-spacing: -0.02em;
+}
+
+/* ── Sticky project section ── */
+.sticky-card {
+  position: sticky;
+  top: 96px;
+}
+
+/* ── Scrollbar styling ── */
+::-webkit-scrollbar {
+  width: 4px;
+  height: 4px;
+}
+::-webkit-scrollbar-track {
+  background: #0C0C0C;
+}
+::-webkit-scrollbar-thumb {
+  background: #2A2A2A;
+  border-radius: 2px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #444;
+}
