@@ -3,6 +3,8 @@
 A dark, modern portfolio built with **React 18 + TypeScript + Vite + Tailwind CSS + Framer Motion**. All personal content lives in a single JSON file — no component edits required to personalize.
 
 ---
+# Hey! checkout my portfolio here 
+https://yashvipoojari-portfolio.netlify.app/
 
 ## Stack
 
