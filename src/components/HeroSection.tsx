@@ -132,7 +132,7 @@ export default function HeroSection() {
           <motion.div variants={fadeUp} initial="hidden" animate="show" custom={0} className="hero-text-col">
             <span className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full border border-[#2A2A2A] bg-[#111] text-xs font-kanit font-medium text-[#666] tracking-wider uppercase">
               <span className="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-pulse" />
-              Available for new opportunities
+              Open to Application Engineering opportunities
             </span>
           </motion.div>
 
@@ -167,17 +167,30 @@ export default function HeroSection() {
             <span className="w-px h-4 bg-[#2A2A2A]" />
             <span className="flex items-center gap-1.5">
               <Briefcase size={14} className="text-[#444]" />
-              {profile.yearsOfExperience} years experience
+              {profile.headlineMeta ?? 'Application Engineering'}
             </span>
           </motion.div>
 
           {/* 5 — CTAs */}
           <motion.div
-            variants={fadeUp} initial="hidden" animate="show" custom={0.5}
+            variants={fadeUp}
+            initial="hidden"
+            animate="show"
+            custom={0.5}
             className="flex items-center gap-3 flex-wrap justify-center md:justify-start"
           >
-            
-             
+            <a
+              href="#projects"
+              className="px-6 py-3 rounded-full font-kanit font-semibold text-sm text-white btn-gradient"
+            >
+              View my work
+            </a>
+            <a
+              href={`mailto:${profile.social.email}`}
+              className="px-6 py-3 rounded-full font-kanit font-semibold text-sm text-[#777] border border-[#2A2A2A] hover:border-[#444] hover:text-white transition-all bg-[#111]"
+            >
+              Contact me
+            </a>
           </motion.div>
 
           {/* 6 — Socials */}
