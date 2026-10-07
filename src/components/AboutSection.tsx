@@ -80,7 +80,16 @@ export default function AboutSection() {
               ))}
             </div>
 
-            <div className="flex items-center gap-3 pt-4">
+            <div className="rounded-2xl border border-[#1E1E1E] bg-[#111] p-5">
+              <p className="text-xs font-kanit font-medium text-[#555] tracking-[0.15em] uppercase mb-2">
+                Business Technology
+              </p>
+              <p className="text-sm font-kanit text-[#777] leading-relaxed">
+                SAP S/4HANA FICO exposure · Financial Accounting concepts · AWS Cloud Foundations certified · comfortable working between technical implementation and business-process understanding.
+              </p>
+            </div>
+
+            <div className="flex items-center gap-3 pt-2">
               <a
                 href={`mailto:${profile.social.email}`}
                 className="px-6 py-3 rounded-full font-kanit font-semibold text-sm text-white btn-gradient"
