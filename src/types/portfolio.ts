@@ -15,6 +15,7 @@ export interface Profile {
   specialization: string;
   location: string;
   yearsOfExperience: string | number;
+  headlineMeta?: string;
   bio: string;
   avatarSvg: string;
   social: Social;
