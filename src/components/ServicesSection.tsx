@@ -30,7 +30,7 @@ export default function ServicesSection() {
           className="mb-14"
         >
           <p className="text-xs font-kanit font-medium text-[#555] tracking-[0.2em] uppercase mb-3">
-            What I Offer
+            What I Bring
           </p>
           <h2 className="text-4xl md:text-5xl font-kanit font-bold text-white">
             Services
