@@ -26,8 +26,8 @@ export default function AboutSection() {
                 About Me
               </p>
               <h2 className="text-4xl md:text-5xl font-kanit font-bold text-white leading-tight">
-                Building models that{' '}
-                <span className="text-gradient">actually work.</span>
+                Building software that{' '}
+                <span className="text-gradient">solves problems.</span>
               </h2>
             </motion.div>
 
