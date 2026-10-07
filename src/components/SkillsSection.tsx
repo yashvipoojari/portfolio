@@ -15,7 +15,7 @@ export default function SkillsSection() {
           className="mb-12"
         >
           <p className="text-xs font-kanit font-medium text-[#555] tracking-[0.2em] uppercase mb-3">
-            Toolkit
+            Application Engineer Toolkit
           </p>
           <h2 className="text-4xl md:text-5xl font-kanit font-bold text-white">
             Skills &amp; Technologies
