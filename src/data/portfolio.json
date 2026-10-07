@@ -2,12 +2,13 @@
   "profile": {
     "name": "Yashvi Poojari",
     "shortName": "Yashvi",
-    "tagline": "I build ML pipelines, ship AI-powered apps, and turn messy data into decisions that actually matter.",
-    "role": "ML & AI Engineer",
-    "specialization": "Machine Learning · AI/LLM · Data Science",
+    "tagline": "I build practical software and data-driven applications, with a focus on clean engineering, debugging, testing, and real-world problem solving.",
+    "role": "Application Engineer | Software Development",
+    "specialization": "Software Development · Data & ML · Business Technology",
     "location": "Navi Mumbai, India",
     "yearsOfExperience": "0",
-    "bio": "I'm a Computer Science & Business Systems undergraduate at RAIT building end-to-end ML pipelines, AI-powered web apps, and 3D interactive experiences. I care about models that generalise, code that's readable, and products that solve real problems — not just hit a benchmark. SIH'24 National Finalist out of 1,000+ participants. AWS Cloud Foundations certified. Three IBM Data Science credentials. Currently seeking internship opportunities in Machine Learning, AI, Software Development, or Data Analytics.",
+    "headlineMeta": "Application Engineering",
+    "bio": "I'm a Computer Science and Business Systems undergraduate at RAIT with a strong foundation in programming, data structures, software engineering, databases, and cloud fundamentals. I build data-driven and ML applications while developing practical experience across requirements analysis, coding, testing, debugging, and documentation. SIH'24 National Finalist and AWS Cloud Foundations certified, currently seeking entry-level opportunities in Application Engineering, Software Development, or Business Technology Consulting.",
     "avatarSvg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 120 120'><defs><linearGradient id='av' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#a855f7'/><stop offset='50%' stop-color='#ec4899'/><stop offset='100%' stop-color='#f97316'/></linearGradient></defs><circle cx='60' cy='60' r='60' fill='url(#av)'/><circle cx='60' cy='46' r='22' fill='rgba(0,0,0,0.35)'/><ellipse cx='60' cy='100' rx='32' ry='24' fill='rgba(0,0,0,0.35)'/><text x='60' y='55' font-family='sans-serif' font-size='30' font-weight='700' text-anchor='middle' fill='white' dominant-baseline='middle'>YP</text></svg>",
     "social": {
       "github": "https://github.com/yashvipoojari",
@@ -35,7 +36,7 @@
     },
     {
       "institution": "New Bombay City School",
-      "degree": "HSC — 88.75%",
+      "degree": "HSC — 62.00%",
       "period": "2021 – 2023",
       "location": "Navi Mumbai, India"
     },
@@ -84,8 +85,8 @@
       "location": "Navi Mumbai, India",
       "summary": "Led logistics for a 500-attendee college cultural event and published original writing on the chapter's official platform.",
       "highlights": [
-        "Led the Open Mic Cultural Event 2024 end-to-end — managed public relations, logistics, and sponsorship coordination with Faber-Castell for 70+ performers and ~500 live attendees.",
-        "Published 2 original articles on The Wall RAIT's official Instagram page, contributing to the college-wide creative writing community.",
+        "Led the Open Mic Cultural Event 2024 for 70+ performers and ~500 attendees, and brought Faber-Castell sponsorship to the table for the event.",
+        "Published 2 original articles for The Wall RAIT, contributing to the chapter's creative writing community.",
         "Volunteered at The Open Mic 2023, supporting event operations and audience management."
       ]
     },
