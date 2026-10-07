@@ -33,7 +33,7 @@ export default function ServicesSection() {
             What I Bring
           </p>
           <h2 className="text-4xl md:text-5xl font-kanit font-bold text-white">
-            Services
+            Application Engineering Capabilities
           </h2>
         </motion.div>
 
