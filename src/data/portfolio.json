@@ -2,13 +2,13 @@
   "profile": {
     "name": "Yashvi Poojari",
     "shortName": "Yashvi",
-    "tagline": "I build reliable applications by turning requirements into practical solutions, with a focus on clean development, testing, troubleshooting, and maintainable software.",
+    "tagline": "I build reliable applications, translate requirements into practical technical solutions, and solve problems across the software development lifecycle.",
     "role": "Application Engineer | Software Development",
-    "specialization": "Application Development · SDLC · Cloud & Business Technology",
+    "specialization": "Application Development · Software Engineering · Data & Cloud",
     "location": "Navi Mumbai, India",
     "yearsOfExperience": "0",
-    "headlineMeta": "Application Engineering",
-    "bio": "Computer Science and Business Systems undergraduate at RAIT with a strong foundation in programming, data structures, databases, software engineering, and cloud fundamentals. I enjoy turning business requirements into practical software solutions and working across the SDLC — from analysis and development to testing, debugging, documentation, and deployment. AWS Cloud Foundations certified, SIH'24 National Finalist, and currently developing SAP S/4HANA Finance knowledge alongside application engineering skills.",
+    "headlineMeta": "8.81 CGPA · BE/BTech · Application Engineering",
+    "bio": "I'm a Computer Science & Business Systems undergraduate at Ramrao Adik Institute of Technology with an 8.81 CGPA, focused on application development, software engineering, data-driven solutions, and cloud technologies. I build practical applications using Java, Python, JavaScript, SQL, React, Streamlit, FastAPI, and AWS fundamentals. I enjoy understanding requirements, translating them into functional solutions, testing and debugging applications, documenting technical work, and collaborating with teams to deliver projects within deadlines. SIH'24 National Finalist and AWS Cloud Foundations certified, with a strong interest in building reliable, maintainable and user-focused applications.",
     "avatarSvg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 120 120'><defs><linearGradient id='av' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#a855f7'/><stop offset='50%' stop-color='#ec4899'/><stop offset='100%' stop-color='#f97316'/></linearGradient></defs><circle cx='60' cy='60' r='60' fill='url(#av)'/><circle cx='60' cy='46' r='22' fill='rgba(0,0,0,0.35)'/><ellipse cx='60' cy='100' rx='32' ry='24' fill='rgba(0,0,0,0.35)'/><text x='60' y='55' font-family='sans-serif' font-size='30' font-weight='700' text-anchor='middle' fill='white' dominant-baseline='middle'>YP</text></svg>",
     "social": {
       "github": "https://github.com/yashvipoojari",
@@ -25,16 +25,16 @@
       "label": "CGPA / 10"
     },
     {
-      "num": "SIH'24",
-      "label": "National Finalist"
+      "num": "4+",
+      "label": "Projects"
     },
     {
       "num": "10+",
       "label": "Technical reports"
     },
     {
-      "num": "500+",
-      "label": "Event attendees coordinated"
+      "num": "2024",
+      "label": "SIH National Finalist"
     }
   ],
   "education": [
@@ -46,7 +46,7 @@
     },
     {
       "institution": "New Bombay City School",
-      "degree": "HSC — 62.00%",
+      "degree": "HSC — 88.75%",
       "period": "2021 – 2023",
       "location": "Navi Mumbai, India"
     },
@@ -62,11 +62,11 @@
       {
         "name": "Programming",
         "items": [
-          "Java",
           "Python",
+          "Java",
+          "C++",
           "JavaScript",
           "SQL",
-          "C++",
           "HTML",
           "CSS"
         ]
@@ -78,52 +78,54 @@
           "Streamlit",
           "FastAPI",
           "REST APIs",
-          "Git",
-          "GitHub",
-          "SDLC"
+          "Client-Side Applications",
+          "Web Development"
         ]
       },
       {
-        "name": "Testing & Engineering",
+        "name": "Software Engineering",
         "items": [
+          "SDLC",
           "Debugging",
           "Testing",
           "Troubleshooting",
-          "Documentation",
-          "Data Structures",
+          "Git",
+          "GitHub",
+          "Technical Documentation"
+        ]
+      },
+      {
+        "name": "Database & Data",
+        "items": [
+          "SQL",
           "DBMS",
-          "Data Modelling"
-        ]
-      },
-      {
-        "name": "Cloud & Tools",
-        "items": [
-          "AWS Cloud Foundations",
-          "AWS S3",
-          "Docker",
-          "VS Code",
-          "Google Colab"
-        ]
-      },
-      {
-        "name": "Data & ML",
-        "items": [
           "Pandas",
-          "Scikit-learn",
-          "NLP",
-          "Feature Engineering",
+          "Data Modelling",
           "Data Analysis",
-          "Jupyter"
+          "Feature Engineering"
         ]
       },
       {
-        "name": "Business Technology",
+        "name": "Cloud & Development Tools",
         "items": [
+          "AWS",
+          "AWS Cloud Foundations",
+          "Firebase",
+          "Docker",
+          "Jupyter",
+          "Google Colab",
+          "VS Code"
+        ]
+      },
+      {
+        "name": "Business & Applied Technology",
+        "items": [
+          "Requirements Analysis",
+          "Business Process Understanding",
           "SAP S/4HANA Finance",
           "SAP FICO",
-          "SAP Activate",
-          "Requirements Analysis",
-          "Process Understanding"
+          "NLP",
+          "Classification"
         ]
       }
     ]
@@ -134,11 +136,11 @@
       "role": "Event Coordinator & Contributing Writer",
       "period": "Sep 2024 – Jun 2025",
       "location": "Navi Mumbai, India",
-      "summary": "Contributed to a large student-led event and publication while coordinating across teams and external stakeholders.",
+      "summary": "Coordinated a large-scale college event while contributing structured documentation and working with multiple stakeholders to deliver activities within fixed deadlines.",
       "highlights": [
-        "Coordinated an Open Mic event with 70+ performers and approximately 500 attendees.",
-        "Published 2 original articles for The Wall RAIT before bringing Faber-Castell sponsorship into the event planning process.",
-        "Supported event planning, coordination, and execution in a team-based environment."
+        "Published 2 original articles on The Wall RAIT's official Instagram platform, translating ideas into structured and audience-friendly content.",
+        "Coordinated sponsorship activities with Faber-Castell for the Open Mic Cultural Event 2024, supporting an event involving 70+ performers and approximately 500 attendees.",
+        "Worked with multiple stakeholders to coordinate requirements, communication and deliverables within fixed deadlines."
       ]
     },
     {
@@ -146,80 +148,82 @@
       "role": "Technical Report Writer",
       "period": "Sep 2024 – Jun 2025",
       "location": "Navi Mumbai, India",
-      "summary": "Created structured technical and organizational documentation for the International Society of Automation student chapter.",
+      "summary": "Prepared structured technical documentation for the International Society of Automation student chapter, with a focus on clear, consistent and usable technical communication.",
       "highlights": [
-        "Authored 10+ technical reports covering IoT, 3D printing, automation, and industry-focused workshops.",
-        "Prepared Minutes of Meetings, permission letters, invitations, and other formal documentation.",
-        "Worked with student teams to capture technical outcomes clearly and consistently."
+        "Authored 10+ technical reports covering IoT, 3D printing, automation and industry-focused workshops.",
+        "Prepared formal documentation including Minutes of Meetings, permission letters and official invitations.",
+        "Translated technical discussions and event outcomes into clear, structured documentation for organisational records."
       ]
     }
   ],
   "services": [
     {
       "num": "01",
-      "icon": "Server",
+      "icon": "Brain",
       "title": "Application Development",
-      "subtitle": "Java · Python · JavaScript · React",
-      "description": "Developing practical applications from requirements through implementation, testing, debugging, and documentation, with an emphasis on clean, maintainable, and user-focused software.",
+      "subtitle": "Web Apps · Application Logic · User Interfaces",
+      "description": "Building practical applications that translate user and business requirements into functional solutions, with experience across responsive web applications, client-side systems, data-driven tools and user-facing interfaces.",
       "tags": [
-        "Java",
-        "Python",
         "JavaScript",
         "React",
-        "REST APIs",
-        "SDLC"
+        "HTML",
+        "CSS",
+        "Streamlit",
+        "FastAPI"
       ]
     },
     {
       "num": "02",
-      "icon": "Monitor",
+      "icon": "Server",
       "title": "Requirements & Solutioning",
-      "subtitle": "Analysis · Business Requirements · Technical Solutions",
-      "description": "Understanding the problem first, breaking requirements into implementable tasks, and translating business needs into clear technical solutions and application workflows.",
+      "subtitle": "Requirements · Business Logic · SDLC",
+      "description": "Understanding requirements, breaking problems into implementable tasks, and translating them into clear application workflows and technical solutions across the software development lifecycle.",
       "tags": [
         "Requirements Analysis",
-        "Solution Design",
         "Business Logic",
-        "Documentation",
-        "SDLC"
+        "SDLC",
+        "Java",
+        "Python",
+        "Documentation"
       ]
     },
     {
       "num": "03",
-      "icon": "Cloud",
+      "icon": "Monitor",
       "title": "Testing & Troubleshooting",
-      "subtitle": "Testing · Debugging · Application Support",
-      "description": "Testing application behaviour, identifying and resolving issues, and documenting solutions to improve reliability and support a smooth end-user experience.",
+      "subtitle": "Testing · Debugging · Issue Resolution",
+      "description": "Testing application functionality, identifying and resolving issues, and refining application behaviour to support reliable and maintainable software and a smoother end-user experience.",
       "tags": [
         "Testing",
         "Debugging",
         "Troubleshooting",
-        "Issue Resolution",
-        "Technical Documentation"
+        "Python",
+        "SQL",
+        "Git"
       ]
     },
     {
       "num": "04",
-      "icon": "Brain",
-      "title": "Cloud & Data Applications",
-      "subtitle": "AWS · Python · Data-driven Applications",
-      "description": "Building and deploying practical data-driven applications while applying cloud fundamentals, version control, and structured development practices.",
+      "icon": "Cloud",
+      "title": "Cloud & Technical Documentation",
+      "subtitle": "AWS · Deployment · Documentation",
+      "description": "Working with cloud and development tools while maintaining clear technical documentation. AWS Cloud Foundations certified with experience using GitHub, VS Code, Jupyter and cloud-based development environments.",
       "tags": [
         "AWS",
-        "S3",
-        "Python",
-        "Pandas",
-        "Git",
-        "Docker"
+        "Firebase",
+        "Docker",
+        "GitHub",
+        "VS Code",
+        "Documentation"
       ]
     }
   ],
   "projects": [
     {
-      "id": "proj-1",
+      "id": "proj-2",
       "title": "Ka-Chow Store",
       "subtitle": "E-commerce · Web Application",
-      "description": "A responsive e-commerce web application built from scratch with product browsing, cart management, authentication, and a user-focused shopping flow. Demonstrates frontend development, application state handling, structured UI logic, and practical web application design.",
+      "description": "A fully functional e-commerce web application built from scratch. Designed product browsing, cart management, authentication and purchase workflows within a clean, responsive interface, with emphasis on application functionality and user experience.",
       "stack": [
         "JavaScript",
         "HTML",
@@ -233,28 +237,10 @@
       "highlight": true
     },
     {
-      "id": "proj-2",
-      "title": "Smart Travel Planner",
-      "subtitle": "JavaScript · Data Modelling · Client-side Application",
-      "description": "A client-side travel planning application backed by a structured dataset of 150+ destinations. Generates personalized day-by-day itineraries and supports PDF/TXT export, demonstrating requirements-driven application logic and structured data handling.",
-      "stack": [
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "jsPDF",
-        "Data Modelling"
-      ],
-      "role": "Solo Engineer",
-      "year": "2026",
-      "link": "https://touristgram.netlify.app/",
-      "image": "",
-      "highlight": true
-    },
-    {
       "id": "proj-3",
       "title": "ATS CV Ranker",
-      "subtitle": "Python · NLP · Streamlit Application",
-      "description": "A resume-ranking application that parses candidate CVs and compares them against a job description using weighted skill and category matching. Built as an end-to-end application workflow with document processing, scoring logic, and an interpretable user interface.",
+      "subtitle": "Python · NLP · Application Development",
+      "description": "Developed a resume evaluation application that parses PDF, DOCX and TXT files, processes candidate information against job descriptions and produces weighted ATS scores and grades. The application provides real-time results through a Streamlit interface and was tested on 10+ real CVs.",
       "stack": [
         "Python",
         "Streamlit",
@@ -270,9 +256,27 @@
     },
     {
       "id": "proj-4",
+      "title": "Smart Travel Planner",
+      "subtitle": "JavaScript · Client-Side Application",
+      "description": "Designed and developed a client-side travel planning application backed by a structured dataset of 150+ cities across 5 continents. Implemented itinerary generation, daily cost estimation and PDF/TXT export while maintaining a responsive user interface.",
+      "stack": [
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "jsPDF",
+        "Data Modelling"
+      ],
+      "role": "Solo Engineer",
+      "year": "2026",
+      "link": "https://touristgram.netlify.app/",
+      "image": "",
+      "highlight": true
+    },
+    {
+      "id": "proj-1",
       "title": "Ocean Cleaning Game",
       "subtitle": "SIH'24 National Finalist · Unity 3D",
-      "description": "A 3D educational application created as part of a 6-member team for Smart India Hackathon 2024, focused on marine conservation awareness. Contributed to gameplay and custom 3D assets during a rapid two-day development sprint.",
+      "description": "Developed a 3D Unity application as part of a 6-member team during a 2-day Smart India Hackathon 2024 sprint. Contributed to a solution focused on marine conservation awareness, incorporating 5 custom Blender assets and gameplay aligned with 7+ UNESCO SDGs. The team advanced to the national level from 1,000+ participating teams.",
       "stack": [
         "Unity",
         "C#",
