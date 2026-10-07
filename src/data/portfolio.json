@@ -2,13 +2,13 @@
   "profile": {
     "name": "Yashvi Poojari",
     "shortName": "Yashvi",
-    "tagline": "I build practical software and data-driven applications, and I enjoy turning requirements into reliable, usable solutions.",
+    "tagline": "I build reliable applications by turning requirements into practical solutions, with a focus on clean development, testing, troubleshooting, and maintainable software.",
     "role": "Application Engineer | Software Development",
-    "specialization": "Software Development · Data & ML · SAP FICO",
+    "specialization": "Application Development · SDLC · Cloud & Business Technology",
     "location": "Navi Mumbai, India",
     "yearsOfExperience": "0",
     "headlineMeta": "Application Engineering",
-    "bio": "Computer Science and Business Systems undergraduate at RAIT with a strong foundation in programming, data structures, databases, software engineering, and cloud fundamentals. I build data-driven and ML applications while working across requirements analysis, coding, testing, debugging, and documentation. AWS Cloud Foundations certified, SIH'24 National Finalist, and currently developing practical SAP S/4HANA Finance knowledge alongside software development skills.",
+    "bio": "Computer Science and Business Systems undergraduate at RAIT with a strong foundation in programming, data structures, databases, software engineering, and cloud fundamentals. I enjoy turning business requirements into practical software solutions and working across the SDLC — from analysis and development to testing, debugging, documentation, and deployment. AWS Cloud Foundations certified, SIH'24 National Finalist, and currently developing SAP S/4HANA Finance knowledge alongside application engineering skills.",
     "avatarSvg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 120 120'><defs><linearGradient id='av' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='#a855f7'/><stop offset='50%' stop-color='#ec4899'/><stop offset='100%' stop-color='#f97316'/></linearGradient></defs><circle cx='60' cy='60' r='60' fill='url(#av)'/><circle cx='60' cy='46' r='22' fill='rgba(0,0,0,0.35)'/><ellipse cx='60' cy='100' rx='32' ry='24' fill='rgba(0,0,0,0.35)'/><text x='60' y='55' font-family='sans-serif' font-size='30' font-weight='700' text-anchor='middle' fill='white' dominant-baseline='middle'>YP</text></svg>",
     "social": {
       "github": "https://github.com/yashvipoojari",
@@ -72,7 +72,7 @@
         ]
       },
       {
-        "name": "Software Development",
+        "name": "Application Development",
         "items": [
           "React",
           "Streamlit",
@@ -81,6 +81,28 @@
           "Git",
           "GitHub",
           "SDLC"
+        ]
+      },
+      {
+        "name": "Testing & Engineering",
+        "items": [
+          "Debugging",
+          "Testing",
+          "Troubleshooting",
+          "Documentation",
+          "Data Structures",
+          "DBMS",
+          "Data Modelling"
+        ]
+      },
+      {
+        "name": "Cloud & Tools",
+        "items": [
+          "AWS Cloud Foundations",
+          "AWS S3",
+          "Docker",
+          "VS Code",
+          "Google Colab"
         ]
       },
       {
@@ -95,34 +117,13 @@
         ]
       },
       {
-        "name": "Cloud & Tools",
-        "items": [
-          "AWS Cloud Foundations",
-          "AWS S3",
-          "Docker",
-          "VS Code",
-          "Google Colab"
-        ]
-      },
-      {
-        "name": "SAP & Business Technology",
+        "name": "Business Technology",
         "items": [
           "SAP S/4HANA Finance",
           "SAP FICO",
           "SAP Activate",
           "Requirements Analysis",
-          "Testing & Documentation"
-        ]
-      },
-      {
-        "name": "Databases & Engineering",
-        "items": [
-          "SQL",
-          "DBMS",
-          "MongoDB",
-          "Data Modelling",
-          "Debugging",
-          "Testing"
+          "Process Understanding"
         ]
       }
     ]
@@ -159,7 +160,7 @@
       "icon": "Server",
       "title": "Application Development",
       "subtitle": "Java · Python · JavaScript · React",
-      "description": "Building practical applications from requirements through implementation, testing, debugging, and documentation, with an emphasis on readable and maintainable code.",
+      "description": "Developing practical applications from requirements through implementation, testing, debugging, and documentation, with an emphasis on clean, maintainable, and user-focused software.",
       "tags": [
         "Java",
         "Python",
@@ -171,74 +172,54 @@
     },
     {
       "num": "02",
-      "icon": "Brain",
-      "title": "Data & ML Applications",
-      "subtitle": "Python · NLP · Data Analysis",
-      "description": "Developing data-driven applications that turn raw information into useful outputs, including resume ranking, document processing, classification, and analysis workflows.",
+      "icon": "Monitor",
+      "title": "Requirements & Solutioning",
+      "subtitle": "Analysis · Business Requirements · Technical Solutions",
+      "description": "Understanding the problem first, breaking requirements into implementable tasks, and translating business needs into clear technical solutions and application workflows.",
       "tags": [
-        "Python",
-        "Pandas",
-        "Scikit-learn",
-        "NLP",
-        "Streamlit",
-        "FastAPI"
+        "Requirements Analysis",
+        "Solution Design",
+        "Business Logic",
+        "Documentation",
+        "SDLC"
       ]
     },
     {
       "num": "03",
       "icon": "Cloud",
-      "title": "Cloud & Deployment",
-      "subtitle": "AWS · Docker · Git/GitHub",
-      "description": "Working with cloud fundamentals and deployment workflows, including AWS services, version control, containerization, and application delivery.",
+      "title": "Testing & Troubleshooting",
+      "subtitle": "Testing · Debugging · Application Support",
+      "description": "Testing application behaviour, identifying and resolving issues, and documenting solutions to improve reliability and support a smooth end-user experience.",
       "tags": [
-        "AWS",
-        "S3",
-        "Docker",
-        "Git",
-        "GitHub",
-        "Deployment"
+        "Testing",
+        "Debugging",
+        "Troubleshooting",
+        "Issue Resolution",
+        "Technical Documentation"
       ]
     },
     {
       "num": "04",
-      "icon": "Monitor",
-      "title": "Business Technology",
-      "subtitle": "SAP FICO · Requirements · Testing",
-      "description": "Applying software and business-process thinking to enterprise technology, with ongoing SAP S/4HANA Finance training covering configuration, testing, documentation, and SAP Activate methodology.",
+      "icon": "Brain",
+      "title": "Cloud & Data Applications",
+      "subtitle": "AWS · Python · Data-driven Applications",
+      "description": "Building and deploying practical data-driven applications while applying cloud fundamentals, version control, and structured development practices.",
       "tags": [
-        "SAP FICO",
-        "S/4HANA",
-        "SAP Activate",
-        "Requirements",
-        "Testing",
-        "Documentation"
+        "AWS",
+        "S3",
+        "Python",
+        "Pandas",
+        "Git",
+        "Docker"
       ]
     }
   ],
   "projects": [
     {
       "id": "proj-1",
-      "title": "ATS CV Ranker",
-      "subtitle": "NLP · Resume Screening · Streamlit",
-      "description": "A resume-ranking application that parses candidate CVs and compares them against a job description using weighted skill and category matching. Built to provide an interpretable ATS-style score and grade for faster screening.",
-      "stack": [
-        "Python",
-        "Streamlit",
-        "Pandas",
-        "pdfplumber",
-        "NLP"
-      ],
-      "role": "Solo Engineer",
-      "year": "2026",
-      "link": "https://ats-cv-ranker-nor8ku6wcvmuhrdfcoed2g.streamlit.app/",
-      "image": "",
-      "highlight": true
-    },
-    {
-      "id": "proj-2",
       "title": "Ka-Chow Store",
       "subtitle": "E-commerce · Web Application",
-      "description": "A responsive e-commerce web application built from scratch with product browsing, cart management, and a user-focused shopping flow. Demonstrates frontend development, UI state handling, and practical web application design.",
+      "description": "A responsive e-commerce web application built from scratch with product browsing, cart management, authentication, and a user-focused shopping flow. Demonstrates frontend development, application state handling, structured UI logic, and practical web application design.",
       "stack": [
         "JavaScript",
         "HTML",
@@ -252,10 +233,10 @@
       "highlight": true
     },
     {
-      "id": "proj-3",
+      "id": "proj-2",
       "title": "Smart Travel Planner",
-      "subtitle": "JavaScript · Data Modelling · Client-side App",
-      "description": "A client-side travel planning application backed by a structured dataset of 150+ destinations. Generates personalized day-by-day itineraries and supports PDF/TXT export without requiring a backend.",
+      "subtitle": "JavaScript · Data Modelling · Client-side Application",
+      "description": "A client-side travel planning application backed by a structured dataset of 150+ destinations. Generates personalized day-by-day itineraries and supports PDF/TXT export, demonstrating requirements-driven application logic and structured data handling.",
       "stack": [
         "JavaScript",
         "HTML",
@@ -270,15 +251,33 @@
       "highlight": true
     },
     {
+      "id": "proj-3",
+      "title": "ATS CV Ranker",
+      "subtitle": "Python · NLP · Streamlit Application",
+      "description": "A resume-ranking application that parses candidate CVs and compares them against a job description using weighted skill and category matching. Built as an end-to-end application workflow with document processing, scoring logic, and an interpretable user interface.",
+      "stack": [
+        "Python",
+        "Streamlit",
+        "Pandas",
+        "pdfplumber",
+        "NLP"
+      ],
+      "role": "Solo Engineer",
+      "year": "2026",
+      "link": "https://ats-cv-ranker-nor8ku6wcvmuhrdfcoed2g.streamlit.app/",
+      "image": "",
+      "highlight": true
+    },
+    {
       "id": "proj-4",
       "title": "Ocean Cleaning Game",
       "subtitle": "SIH'24 National Finalist · Unity 3D",
-      "description": "A 3D educational game created as part of a 6-member team for Smart India Hackathon 2024, focused on marine conservation awareness. Contributed to gameplay and custom 3D assets during a rapid two-day development sprint.",
+      "description": "A 3D educational application created as part of a 6-member team for Smart India Hackathon 2024, focused on marine conservation awareness. Contributed to gameplay and custom 3D assets during a rapid two-day development sprint.",
       "stack": [
         "Unity",
         "C#",
         "Blender",
-        "3D Game Development"
+        "3D Application Development"
       ],
       "role": "Team Member — 6-person team",
       "year": "2024",
